@@ -1,4 +1,4 @@
-# What I Learnt in 2025
+# what i learnt in 2025
 
 A lightweight journaling wall where anyone can anonymously share what they learnt in 2025. Submissions are stored in SQLite, moderated with OpenAI, and displayed through a clean SvelteKit frontend.
 
