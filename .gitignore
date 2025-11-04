@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.sqlite3
+submissions.db
+
+# Environments and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+
+# Frontend build output (kept here for safety even though frontend has its own .gitignore)
+frontend/node_modules/
+frontend/.svelte-kit/
+frontend/build/
+frontend/dist/
